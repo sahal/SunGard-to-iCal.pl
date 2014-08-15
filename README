@@ -1,0 +1,14 @@
+This was one of my first perl scripts, and as such it is
+badly written. I wrote it back in 2010 (or so) because source for
+http://uiuccalendar.appspot.com/ was unavailable (at the time). Right now
+the script is really buggy, and will not correctly convert copy/pasted
+schedules correctly.
+
+Your school/university most likely uses SunGard's Banner and UNENO.
+
+You should be able to import the resultant .ics file  in Google Calendar,
+Apple iCal, IBM Lotus Notes, Yahoo! Calendar, Evolution (software)
+and maybe even Microsoft Outlook.
+
+a lot of schools use SunGard Banner to manage courses online
+
