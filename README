@@ -1,14 +1,15 @@
-This was one of my first perl scripts, and as such it is
-badly written. I wrote it back in 2010 (or so) because source for
-http://uiuccalendar.appspot.com/ was unavailable (at the time). Right now
-the script is really buggy, and will not correctly convert copy/pasted
-schedules correctly.
+This was one of my first perl scripts, and as such it is badly
+written. I wrote a while ago because the source code for
+http://uiuccalendar.appspot.com/ was unavailable (at the time).
 
-Your school/university most likely uses SunGard's Banner and UNENO.
+Right now the script is really buggy, and will not correctly convert
+copy/pasted schedules correctly.
 
-You should be able to import the resultant .ics file  in Google Calendar,
-Apple iCal, IBM Lotus Notes, Yahoo! Calendar, Evolution (software)
-and maybe even Microsoft Outlook.
+Your school/university most likely uses SunGard's Banner. Go to the
+concise schedule page, copy/paste your schedule into the box, and click
+"Convert it!"  The script will then serve you an .ics file, which you
+can import into your favorite calendar app.
 
-a lot of schools use SunGard Banner to manage courses online
-
+.ics files can be imported into in Google Calendar, Apple iCal, IBM
+Lotus Notes, Yahoo! Calendar, Evolution (software) and maybe even
+Microsoft Outlook.
